@@ -1,0 +1,45 @@
+Coding Challenge for C# Backend Developer
+
+ 
+
+Task description
+
+Please develop an API/Service based on C# .NET exposing an endpoint "flights", that returns flight schedules from a database table (see example). The following topics should be covered:
+
+The following functionality for the endpoint should be included:
+Get all flights
+Get all flights from an airport based on a provided 3-letter code
+Get all flights to an airport based on a provided 3-letter code
+Get all flights with a specific airline code
+Any combination of the above filters
+Database table definition and data should be created as defined in the included SQL file attached (SQL intended for Microsoft SQL Server).
+Some technical requirements:
+Requests and Responses should be in JSON
+Although the use-case you are implementing is small, please implement your solution as if it would be run in production (keeping in mind quality, error-handling, architecture, framework choice, maintainability, and anything else you would consider important)
+.NET 6 or later should be used
+ 
+
+Your deliverables
+
+The API specification
+The program. Database definition and data must not be included, but your program needs to reflect exactly defined structure and work properly during potential presentation
+A Readme file containing:
+Instructions for how to run the program
+A description (bullet points) about what you would do if you had more time (more than 3-4 hours - just see below)
+Brief explanations of the decisions and trade-offs you made during implementation, for example architecture or other choices.
+ 
+
+ Submission & Conditions
+
+You can submit your solution to us via one of:
+
+A link to a git repository
+Send us a .zip file
+Or upload as a .zip file to a cloud service (e.g Google Drive or Dropbox) and provide us with a link.
+If you upload your solution to a public git repository, please remove the repository from public access as soon as we have reviewed your solution.
+
+ You must develop the solution yourself. You may not let others help you, search for existing solutions, or use AI tools to help you. Referring to public documentation for the frameworks you are using is ok. Do not share your solutions with others or make it public, as to not encourage plagiarized submissions.
+
+Please do not spend more than 3-4 hours on the solution and let us have your findings within the 2-3 days. If you need more time, please let us know. In case you have any questions, please don’t hesitate to contact us. We are happy to help. 
+
+Good luck and have fun! :) 
